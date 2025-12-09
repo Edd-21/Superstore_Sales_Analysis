@@ -75,7 +75,14 @@ Based on the quantitative and visual analysis, the following actions are critica
 3. Optimize Inventory for Q4: Allocate staffing, marketing spend, and inventory (especially high-profit items like Copiers and Phones) to the peak months of October, November, and December.
 
 4. Audit the Central Region: The significantly lower profitability of the Central Region suggests a problem with logistics costs, competitor pressure, or local discount policy that needs a focused investigation.
-					
+
+**Data Source**
+
+This analysis was performed using the **Superstore Sales Dataset**, which was originally sourced from **Kaggle**.
+
+**Original Link**: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+**License/Usage:** The dataset is typically provided under a standard license that permits educational and analytical use.
 					
 					
 					
